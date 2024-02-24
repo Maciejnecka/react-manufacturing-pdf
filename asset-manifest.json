@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-manufacturing-pdf/static/css/main.f855e6bc.css",
+    "main.js": "/react-manufacturing-pdf/static/js/main.39579267.js",
+    "static/js/453.6545556d.chunk.js": "/react-manufacturing-pdf/static/js/453.6545556d.chunk.js",
+    "static/media/logo.svg": "/react-manufacturing-pdf/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-manufacturing-pdf/index.html",
+    "main.f855e6bc.css.map": "/react-manufacturing-pdf/static/css/main.f855e6bc.css.map",
+    "main.39579267.js.map": "/react-manufacturing-pdf/static/js/main.39579267.js.map",
+    "453.6545556d.chunk.js.map": "/react-manufacturing-pdf/static/js/453.6545556d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.39579267.js"
+  ]
+}
